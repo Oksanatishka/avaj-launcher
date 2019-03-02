@@ -1,0 +1,33 @@
+$ java -version
+$ javac -version
+
+$ javac Main.java   // To compile a program (You will see a file with the same name but .class extension, that is, Main.class)
+$ java Main         // To run a program
+
+public static void main(String[] args)  // entry point in your program
+'src' folder --> New Package -->then inside package create a new class
+
+UML diagram https://www.lucidchart.com/pages/uml-class-diagram?a=0 
+
+boxes   --> represent classes
+  The top row contains the name of the class, 
+  the middle row contains the attributes of the class, and 
+  the bottom section expresses the methods or operations that the class may use. 
+
+Member access modifiers
+  Public (+)
+  Private (-)
+  Protected (#)
+  Package (~)
+  Derived (/)
+  Static (underlined)
+
+Interactions (various relationships and links that can exist in class and object diagrams)
+  arrows with empty triangle  --> inheritance (a straight connected line with a closed arrowhead pointing towards the superclass.)
+diamond-shape arrows        --> means inclusion (instances)
+
+design patters 
+https://www.tutorialspoint.com/design_pattern/abstract_factory_pattern.htm
+
+2 packages: simulator, weather
+BufferedReader  // needed to read from file
