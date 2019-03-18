@@ -28,6 +28,10 @@ diamond-shape arrows        --> means inclusion (instances)
 
 design patters 
 https://www.tutorialspoint.com/design_pattern/abstract_factory_pattern.htm
+https://www.tutorialspoint.com/design_pattern/singleton_pattern.htm
+https://www.oodesign.com/singleton-pattern.html
+https://www.tutorialspoint.com/design_pattern/factory_pattern.htm
+https://community.oracle.com/blogs/potty/2014/01/22/introduction-class-diagrams
 
 2 packages: simulator, weather
 BufferedReader  // needed to read from file
